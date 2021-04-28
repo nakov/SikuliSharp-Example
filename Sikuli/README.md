@@ -7,3 +7,5 @@ To run it, install Java 8 and execute the following command:
 ```
 java -jar .\sikulix.jar
 ```
+
+This version of Sikuli **cannot run with more recent Java version**, e.g. Java 11 or Java 14.
