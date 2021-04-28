@@ -1,6 +1,6 @@
 # SikuliSharp Example
 
-Example of SikuliX based UI testing with C#
+Example of SikuliX based automated UI testing with C#. **SikuliX** is a test automation tool, based on **image recognition**. It can find images, click on them, type text and assert images are found on the screen. It is based on OpenCV and Java Robot framework.
 
 ## Dependencies
  - **SikuliSharp.NetCore**: https://github.com/OutSystems/SikuliSharp.NetCore
@@ -13,4 +13,3 @@ Example of SikuliX based UI testing with C#
  1. Set `JAVA_HOME` to point your JRE8 installation, e.g. `C:\Program Files\Java\jre1.8.0_291`
  2. Open the project in **Visual Studio** and run the **unit tests**.
  3. Alternatively, run the unit tests from the console, using `dotnet test`
-
