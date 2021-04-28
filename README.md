@@ -5,7 +5,7 @@ Example of SikuliX based automated UI testing with C#. **SikuliX** is a test aut
 ## Dependencies
  - **SikuliSharp.NetCore**: https://github.com/OutSystems/SikuliSharp.NetCore
  - **Java 8** (does not work with newer Java versions, only JRE is enoough): https://java.com/en/download
- - **SikuliX IDE 1.1.3** (running in interactive mode with the Python console, does not support newer versions): ...
+ - **SikuliX IDE 1.1.3** (running in interactive mode with the Python console, does not support newer versions): https://github.com/nakov/SikuliSharp-Example/tree/main/Sikuli
  - **.NET 5**: https://github.com/dotnet/runtime
  - **Windows OS**: the SikuliX IDE is compiled for Windows only.
 
